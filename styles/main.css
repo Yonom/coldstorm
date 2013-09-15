@@ -512,6 +512,10 @@ div.inner {
     height: 16px;
 }
 
+.toolbar .red {
+    color: #f05e56;
+}
+
 span.highlight {
     color: #ff921e;
     font-weight: bold;
